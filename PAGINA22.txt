@@ -1,0 +1,19 @@
+<html>
+<center>
+<head><title> PAGINA 2 </title></head>
+
+<body bgcolor = "#DB35FC">
+<font color = "BLACK">
+<font face = "Bell MT">
+
+
+<img src=".jpg"></img>
+
+
+
+</br>
+</font>
+</center>
+</body>
+
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="19px" height="36px" viewBox="0 0 19 36" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <radialGradient cx="50%" cy="59.8184037%" fx="50%" fy="59.8184037%" r="100%" id="radialGradient-1">
+            <stop stop-color="#F9C600" offset="0%"></stop>
+            <stop stop-color="#EE8B00" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="2.48126594%" x2="50%" y2="97.3393027%" id="linearGradient-2">
+            <stop stop-color="#F1A000" offset="0%"></stop>
+            <stop stop-color="#F9CA00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Main-Flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Game---Comments-(Button)" transform="translate(-178.000000, -5.000000)">
+            <g id="Group">
+                <g id="Imagotype-group-3" transform="translate(178.500000, 5.000000)">
+                    <path d="M0,17.6420194 L18,17.6420194 L18,36 L14.382,36 L14.382,21.3136155 L10.782,21.3136155 L10.782,36 L7.2,36 L7.2,21.3136155 L3.6,21.3136155 L3.6,36 L0,36 L0,17.6420194 Z" id="M" fill="#FFFFFF"></path>
+                    <g id="Path-3-+-Path-6-+-Path-4">
+                        <path d="M3.46339702,13.9706334 L9.78019238e-05,5.23187647 L9.00000002,10.5191229 L18,5.23187647 L14.5371645,13.9693685 L3.46339702,13.9706334 Z" id="back" fill="url(#radialGradient-1)"></path>
+                        <path d="M3.46315845,13.9700315 L3.46339702,13.9706334 L14.5364145,13.9693686 L13.2135961,8.04375392 L9.00000002,10.5191229 L4.78622143,8.0436198 L3.46315845,13.9700315 L3.46315845,13.9700315 Z" id="shadow" fill="#DE6400"></path>
+                        <path d="M14.536603,13.9702131 L3.46283552,13.9704233 L9,0 L14.536603,13.9702131 L14.536603,13.9702131 Z" id="front" fill="url(#linearGradient-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
